@@ -1,0 +1,27 @@
+.header{
+	height: 100px;
+	background-color: red;
+}
+.cotain{
+	height: 500px;
+	border: 1px solid red;
+	
+	
+}
+.left-contain{
+	width: 70%;
+	height: 100%;
+	background-color: gray;
+	float: left;
+}
+.right-contain{
+	width: 30%;
+	height: 100%;
+	background-color: blue;
+	float: right;
+}
+.fotter{
+	height: 100px;
+	background-color: black;
+	overflow: hidden;
+}
